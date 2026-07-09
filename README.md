@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
