@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0557-reverse-words-in-a-string-iii](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0509-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0557-reverse-words-in-a-string-iii](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 <!---LeetCode Topics End-->
