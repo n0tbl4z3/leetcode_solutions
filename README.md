@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0268-missing-number) |
+| [0771-jewels-and-stones](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 ## String
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0771-jewels-and-stones](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 ## Divide and Conquer
 |  |
 | ------- |
