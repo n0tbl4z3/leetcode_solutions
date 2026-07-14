@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0258-add-digits) |
+| [1389-create-target-array-in-the-given-order](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1389-create-target-array-in-the-given-order) |
 ## Number Theory
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
