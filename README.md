@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0728-self-dividing-numbers](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0728-self-dividing-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,11 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [1389-create-target-array-in-the-given-order](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0258-add-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Array
 |  |
 | ------- |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1528-shuffle-string) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -81,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
 | ------- |
