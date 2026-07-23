@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2103-rings-and-rods](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/2103-rings-and-rods) |
 ## String
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1528-shuffle-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2103-rings-and-rods](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/2103-rings-and-rods) |
 ## Divide and Conquer
 |  |
 | ------- |
