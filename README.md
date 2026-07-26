@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0168-excel-sheet-column-title](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0263-ugly-number) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0202-happy-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0268-missing-number) |
 | [0771-jewels-and-stones](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0771-jewels-and-stones) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0202-happy-number) |
 | [0455-assign-cookies](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
