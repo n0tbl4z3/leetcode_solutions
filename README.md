@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/2413-smallest-even-multiple) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2103-rings-and-rods](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/2103-rings-and-rods) |
 | [2418-sort-the-people](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/2418-sort-the-people) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0455-assign-cookies) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
