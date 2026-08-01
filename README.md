@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1528-shuffle-string) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2418-sort-the-people](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/2418-sort-the-people) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1913-maximum-product-difference-between-two-pairs](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2418-sort-the-people](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/2418-sort-the-people) |
 | [3536-maximum-product-of-two-digits](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
