@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0383-ransom-note) |
+| [0496-next-greater-element-i](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0682-baseball-game) |
@@ -199,5 +201,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0682-baseball-game) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
