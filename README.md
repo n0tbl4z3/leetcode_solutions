@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0509-fibonacci-number) |
@@ -207,4 +208,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0496-next-greater-element-i) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
