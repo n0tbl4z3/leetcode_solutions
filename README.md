@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0383-ransom-note) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0217-contains-duplicate](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0455-assign-cookies) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0414-third-maximum-number) |
