@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0682-baseball-game) |
+| [0704-binary-search](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0704-binary-search) |
 | [1051-height-checker](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1389-create-target-array-in-the-given-order) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0704-binary-search) |
 ## Sorting
 |  |
 | ------- |
