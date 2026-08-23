@@ -1,17 +1,24 @@
 class Solution {
   void rotate(List<List<int>> matrix) {
-    Map<String, int> myMap = {};
     int n = matrix.length;
 
     for (int i = 0; i < n; i++) {
-      for (int j = 0; j < matrix[i].length; j++) {
-        myMap['$i,$j'] = matrix[i][j];
+      for (int j = i + 1; j < n; j++) {
+        int temp = matrix[i][j];
+        matrix[i][j] = matrix[j][i];
+        matrix[j][i] = temp;
       }
     }
 
-    for (int k = 0; k < n; k++) {
-      for (int s = 0; s < matrix[k].length; s++) {
-        matrix[k][s] = myMap['${(n - 1) - s},$k']!;
+    for (int i = 0; i < n; i++) {
+      int start = 0;
+      int end = n - 1;
+      while (start < end) {
+        int temp = matrix[i][start];
+        matrix[i][start] = matrix[i][end];
+        matrix[i][end] = temp;
+        start++;
+        end--;
       }
     }
   }
