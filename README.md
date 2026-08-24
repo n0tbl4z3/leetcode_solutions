@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0268-missing-number) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0168-excel-sheet-column-title](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0412-fizz-buzz) |
