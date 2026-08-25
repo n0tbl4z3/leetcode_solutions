@@ -2,24 +2,22 @@ class Solution {
 public:
    int missingMultiple(vector<int>& nums, int k)
 {
-    int multiple = 1;
-    bool found = false;
-    while(1)
+    unordered_map<int , int> ump;
+    for (int i = 0; i < nums.size(); i++)
     {
-        found = false;
-        int check = multiple * k;
-        for (int i = 0; i < nums.size(); i++)
-        {
-            if(check== nums[i]){
-                found = true;
-                break;
-            }
-        }
-        if(found == false)
-        {
-            return check;
-        }
-        multiple++;
+        ump[nums[i]] = i;
     }
+    int multiple = 1;
+    bool isFound = true;
+    while(isFound==true)
+    {
+        if(ump.find(multiple*k) != ump.end()){
+            isFound = true;
+            multiple++;
+        }
+        else
+            isFound = false;
+    }
+    return multiple * k;
 }
 };
