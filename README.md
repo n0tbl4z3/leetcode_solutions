@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0496-next-greater-element-i](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0771-jewels-and-stones) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2103-rings-and-rods](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/2103-rings-and-rods) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1108-defanging-an-ip-address) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1528-shuffle-string](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1528-shuffle-string) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2103-rings-and-rods](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/2103-rings-and-rods) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0704-binary-search) |
 | [1051-height-checker](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1051-height-checker) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1051-height-checker) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Prefix Sum
