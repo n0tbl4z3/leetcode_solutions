@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0048-rotate-image) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0202-happy-number) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0561-array-partition) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
