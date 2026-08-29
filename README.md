@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0066-plus-one) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0205-isomorphic-strings) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0058-length-of-last-word) |
