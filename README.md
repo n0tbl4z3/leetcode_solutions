@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0345-reverse-vowels-of-a-string](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0202-happy-number](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
