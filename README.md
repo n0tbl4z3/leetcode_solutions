@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-day-of-the-year](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1154-day-of-the-year) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1528-shuffle-string](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1528-shuffle-string) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2103-rings-and-rods](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/2103-rings-and-rods) |
 | [2418-sort-the-people](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/2418-sort-the-people) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/0561-array-partition) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/n0tbl4z3/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Heap (Priority Queue)
